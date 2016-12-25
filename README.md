@@ -89,4 +89,11 @@ its history going back to its founding by the Romans, who named it Londinium.
 Copyright W3School.com.cn
 </div>
 ```  
-
+#### 响应式网页  
+RWD 指的是响应式 Web 设计（Responsive Web Design）  
+RWD 能够以可变尺寸传递网页  
+RWD 对于平板和移动设备是必需的  
+##### 使用框架Bootstrap  
+另一个创建响应式设计的方法，是使用现成的 CSS 框架。  
+Bootstrap 是最流行的开发响应式 web 的 HTML, CSS, 和 JS 框架。  
+Bootstrap 帮助您开发在任何尺寸都外观出众的站点：显示器、笔记本电脑、平板电脑或手机：  
