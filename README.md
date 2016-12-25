@@ -30,9 +30,8 @@ p {margin-left: 20px}
 `<p style="color: red; margin-left: 20px">
 This is a paragraph
 </p>`  
-#### 类  
+#### 类  
 ```
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -55,8 +54,6 @@ It is the most populous city in the United Kingdom,
 with a metropolitan area of over 13 million inhabitants.
 </p>
 </div> 
-
 </body>
 </html>
-```   
-
+```
