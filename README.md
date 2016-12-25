@@ -31,7 +31,8 @@ p {margin-left: 20px}
 This is a paragraph
 </p>`  
 #### 类  
-`
+类的样式
+```
 <html>
 <head>
 <style>
@@ -56,10 +57,10 @@ with a metropolitan area of over 13 million inhabitants.
 </div> 
 </body>
 </html>
-` 
-
-#### [ID]
- `
+```   
+#### [ID]  
+[ID]类型样式
+ ```
 <div id="header">
 <h1>City Gallery</h1>
 </div>
@@ -84,4 +85,5 @@ its history going back to its founding by the Romans, who named it Londinium.
 
 <div id="footer">
 Copyright W3School.com.cn
-</div>`
+</div>
+```  
